@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto",sans-serif;
+    background-color:rgb(246, 214, 173);
+}
+
+.header_div {
+    background:rgb(7, 243, 23);
+    color: brown;
+}
+
+.header_div p{
+    font-family: "Roboto",sans-serif;
+    color: chocolate;
+    letter-spacing:1.5px ;
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+
+
